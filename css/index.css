@@ -270,24 +270,24 @@ h6 {
 
 .tab #tab_input-2:checked ~ .tab_container #freez {
   display: block;
-<<<<<<< HEAD
+
   background-image: url(../image/vnukovo.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-=======
->>>>>>> 3176caeef433b47a852f531c3253d709046aef23
+
+
 }
 
 .tab #tab_input-3:checked ~ .tab_container #freex {
   display: block;
-<<<<<<< HEAD
+
   background-image: url(../image/2021-09-21_15-04-21.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-=======
->>>>>>> 3176caeef433b47a852f531c3253d709046aef23
+
+
 }
 
 .tab .tabs__button-conteiner {
