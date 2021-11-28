@@ -1,6 +1,5 @@
 
-let listPlaceList = document.querySelector(".menu__list");
-let allLink = listPlaceList.querySelectorAll(".menu__link-icon")
+
 
 $(document).ready(function () {
   $(".slider__down").slick({
